@@ -12,7 +12,7 @@ You can try the live version here:
 Follow these steps to run the project on your local machine:
 
 ### 1️⃣ **Clone the Repository**
-```bash
+
 git clone https://github.com/keyurchauhan187/HeartDiseasePrediction.git
 cd HeartDiseasePrediction
 
